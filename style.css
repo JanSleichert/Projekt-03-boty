@@ -110,15 +110,17 @@ margin: 30px
 
 .popis {
     margin-right: 30px;
+    margin-bottom: 0;
   
 }
 
-.cara {
+.sekce {
     border-bottom: 1px solid #06d7c1;
     margin-left: 0;
     margin-right: 30px;
     margin-top: 30px;
     margin-bottom: 30px;
+    padding-bottom: 30px;
 }
 
 .velikosti {
@@ -132,6 +134,7 @@ margin: 30px
 .puntik {
     text-decoration: none;
     color: black;
+    padding: 5px;
 }
 
 .puntik:hover {
